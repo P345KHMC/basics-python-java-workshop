@@ -4,7 +4,7 @@ print("List awal:", numbers)
 
 # 2. TODO: Tampilkan angka pertama dan terakhir
 print("Angka pertama:", numbers[0])
-print("Angka terakhir:", numbers[-1:])
+print("Angka terakhir:", numbers[-1])
 
 # 3. TODO: Tambahkan angka baru (apapun) ke akhir list
 print("List setelah ditambah:", numbers.append(100), numbers)
